@@ -5,18 +5,18 @@ export default [
     id: 1,
     icon: <FaCode className="service-icon" />,
     title: "Back-End Development",
-    text: `Java, Spring, Spring Boot, Spring Security, REST Api.`,
+    text: `Java 8+, Spring Framework, Spring Boot, Spring Security, SQL, noSQL, REST Api.`,
   },
   {
     id: 2,
     icon: <FaSketch className="service-icon" />,
     title: "Front-End Development",
-    text: `ReactJS, Hooks, React Router, GatsbyJS, TypeScript.`,
+    text: `React + Gatsby JS, React Hooks, React Router, TypeScript.`,
   },
   {
     id: 3,
     icon: <FaSplotch className="service-icon" />,
     title: "Web Design",
-    text: `HTML5, CSS3, Bootstrap, Wordpress CMS, SEO.`,
+    text: `HTML5, CSS3, Responsive Web Design, Bootstrap, Wordpress, SEO.`,
   },
 ]

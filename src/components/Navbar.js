@@ -1,7 +1,8 @@
 import React from "react"
-import logo from "../assets/logo.svg"
+import logo from "../assets/damianlew-logo_w157.png"
 import { FaAlignRight } from "react-icons/fa"
 import PageLinks from "../constants/links"
+
 const Navbar = ({ toggleSidebar }) => {
   return (
     <nav className="navbar">
